@@ -48,7 +48,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Jhoae.github.io/coin-tracker",
+  "homepage": "https://Jhoae.github.io/ts-coin-tracker",
   "devDependencies": {
     "@types/styled-components": "^5.1.26"
   }
